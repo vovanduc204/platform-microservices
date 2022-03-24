@@ -6082,11 +6082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code-practices\\cover-microservices\\PlatformService\\PlatformService.csproj",
+      "projectUniqueName": "D:\\code-practices\\cover-microservices\\plt\\platform-microservices\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "D:\\code-practices\\cover-microservices\\PlatformService\\PlatformService.csproj",
+      "projectPath": "D:\\code-practices\\cover-microservices\\plt\\platform-microservices\\PlatformService\\PlatformService.csproj",
       "packagesPath": "C:\\Users\\vvduc\\.nuget\\packages\\",
-      "outputPath": "D:\\code-practices\\cover-microservices\\PlatformService\\obj\\",
+      "outputPath": "D:\\code-practices\\cover-microservices\\plt\\platform-microservices\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vvduc\\AppData\\Roaming\\NuGet\\NuGet.Config",
